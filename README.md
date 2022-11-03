@@ -2,6 +2,8 @@
 This is the submission file for lab 9 activity for CPIT252
 
 Output:
+
+
 ![output](Output.jpg)
 
 ------------------
